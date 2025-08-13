@@ -1,12 +1,12 @@
-# Simple Shopping Cart
+# Shopping Cart
 
 # Step 1: Predefined store items as tuples (name, price)
 store_items = [
-    ("Apple", 10),
+    ("tomato", 20),
     ("Banana", 5),
     ("Mango", 15),
     ("Milk", 20),
-    ("Bread", 25)
+    ("sugar", 25)
 ]
 
 # Step 2: Empty cart (list)
