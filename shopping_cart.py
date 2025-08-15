@@ -4,7 +4,7 @@
 store_items = [
     ("tomato", 20),
     ("Banana", 5),
-    ("Mango", 15),
+    ("curd", 15),
     ("Milk", 20),
     ("sugar", 25)
 ]
